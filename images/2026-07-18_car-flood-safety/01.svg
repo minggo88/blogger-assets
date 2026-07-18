@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="788" viewBox="0 0 1400 788" role="img" aria-label="장마철 지하차도 침수 위험 앞에서 우회하는 차량 안전 이미지">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#eef9ff"/><stop offset="1" stop-color="#c7ddff"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#173b5d" flood-opacity=".18"/></filter></defs>
+  <rect width="1400" height="788" fill="#f8fbff"/><rect x="60" y="56" width="1280" height="676" rx="48" fill="url(#bg)" stroke="#d7e8f8" stroke-width="4" filter="url(#shadow)"/>
+  <g opacity=".75" stroke="#fff" stroke-width="5" stroke-linecap="round"><path d="M160 120l-28 80M260 90l-32 95M390 130l-30 90M1040 105l-34 100M1160 145l-26 76M1240 92l-34 92"/></g>
+  <path d="M710 238h505a42 42 0 0 1 42 42v345H668V280a42 42 0 0 1 42-42Z" fill="#1e3a5f" opacity=".92"/><path d="M805 320h318a32 32 0 0 1 32 32v273H773V352a32 32 0 0 1 32-32Z" fill="#0f172a" opacity=".95"/>
+  <path d="M60 612C220 570 342 555 520 590c180 36 360 18 520-28 125-36 215-35 300-12v182H60Z" fill="#2563eb" opacity=".45"/><g stroke="#dbeafe" stroke-width="8" fill="none" opacity=".72"><path d="M95 626c80-35 170-35 250 0"/><path d="M450 622c90-30 190-30 280 0"/><path d="M805 604c80-28 170-28 250 0"/></g>
+  <path d="M60 690L520 536h315l505 160v36H60Z" fill="#334155" opacity=".9"/><path d="M135 672c165-57 310-96 520-111" stroke="#fff" stroke-width="9" opacity=".7" stroke-dasharray="54 36"/>
+  <path d="M590 408H436v-64L240 488l196 144v-66h154Z" fill="#22c55e" stroke="#14532d" stroke-width="8" stroke-linejoin="round"/>
+  <g transform="translate(240 495)"><rect x="0" y="0" width="270" height="84" rx="34" fill="#facc15" stroke="#78350f" stroke-width="5"/><path d="M55 0l55-55h112l48 55Z" fill="#60a5fa" stroke="#1d4ed8" stroke-width="5"/><circle cx="58" cy="82" r="34" fill="#0f172a"/><circle cx="207" cy="82" r="34" fill="#0f172a"/><circle cx="58" cy="82" r="12" fill="#e2e8f0"/><circle cx="207" cy="82" r="12" fill="#e2e8f0"/></g>
+  <g transform="translate(1050 166)"><circle cx="0" cy="0" r="76" fill="#fff" stroke="#dc2626" stroke-width="14"/><path d="M-38 0H38" stroke="#dc2626" stroke-width="18" stroke-linecap="round"/></g>
+</svg>

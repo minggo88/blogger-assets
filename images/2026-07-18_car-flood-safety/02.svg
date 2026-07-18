@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="788" viewBox="0 0 1400 788" role="img" aria-label="차량 침수 대처 체크리스트를 상징하는 아이콘 이미지">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e8f4ff"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#173b5d" flood-opacity=".14"/></filter></defs>
+  <rect width="1400" height="788" fill="#f7fbff"/><rect x="70" y="58" width="1260" height="672" rx="48" fill="url(#bg)" stroke="#d7e8f8" stroke-width="4" filter="url(#shadow)"/>
+  <g transform="translate(135 125)">
+    <rect x="0" y="0" width="260" height="235" rx="34" fill="#fee2e2" stroke="#e2e8f0" stroke-width="4"/><circle cx="130" cy="93" r="66" fill="#fff" stroke="#dc2626" stroke-width="13"/><path d="M92 93h76" stroke="#dc2626" stroke-width="17" stroke-linecap="round"/><rect x="62" y="177" width="136" height="22" rx="11" fill="#64748b"/>
+  </g>
+  <g transform="translate(430 125)">
+    <rect x="0" y="0" width="260" height="235" rx="34" fill="#dcfce7" stroke="#e2e8f0" stroke-width="4"/><circle cx="103" cy="65" r="26" fill="#0f172a"/><path d="M103 92l-18 72M96 122l-58-10M86 164l-52 48M93 166l76 38" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/><rect x="160" y="158" width="72" height="44" rx="15" fill="#60a5fa"/>
+  </g>
+  <g transform="translate(725 125)">
+    <rect x="0" y="0" width="260" height="235" rx="34" fill="#dbeafe" stroke="#e2e8f0" stroke-width="4"/><circle cx="130" cy="107" r="72" fill="#0f172a"/><circle cx="130" cy="107" r="27" fill="#e2e8f0"/><rect x="45" y="132" width="170" height="74" fill="#3b82f6" opacity=".68"/><path d="M38 132c45-26 94-26 140 0M92 164c45-26 94-26 140 0" stroke="#eff6ff" stroke-width="7" fill="none" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(1020 125)">
+    <rect x="0" y="0" width="260" height="235" rx="34" fill="#fef9c3" stroke="#e2e8f0" stroke-width="4"/><rect x="55" y="55" width="118" height="118" rx="16" fill="#bfdbfe" stroke="#2563eb" stroke-width="8"/><path d="M82 78l64 72M145 78l-62 72" stroke="#93c5fd" stroke-width="6"/><path d="M194 55l-88 155" stroke="#1e293b" stroke-width="14" stroke-linecap="round"/><rect x="176" y="42" width="66" height="36" rx="10" fill="#ef4444"/>
+  </g>
+  <rect x="185" y="455" width="1030" height="158" rx="38" fill="#eff6ff" stroke="#dbeafe" stroke-width="4"/>
+  <g fill="none" stroke="#60a5fa" stroke-width="9" stroke-linecap="round" opacity=".75"><path d="M230 535c65-37 136-37 202 0"/><path d="M475 535c65-37 136-37 202 0"/><path d="M720 535c65-37 136-37 202 0"/><path d="M965 535c65-37 136-37 202 0"/></g>
+  <g fill="#22c55e" stroke="#14532d" stroke-width="4"><circle cx="320" cy="620" r="45"/><circle cx="560" cy="620" r="45"/><circle cx="800" cy="620" r="45"/><circle cx="1040" cy="620" r="45"/></g>
+  <g fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"><path d="M300 620l18 19 33-45"/><path d="M540 620l18 19 33-45"/><path d="M780 620l18 19 33-45"/><path d="M1020 620l18 19 33-45"/></g>
+</svg>
